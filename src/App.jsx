@@ -6,6 +6,7 @@ import Game from './component/Game';
 function App() {
 
   return (<>
+  Test
       <Router>
       <Routes>
         <Route path="/1" component={<Game/>} />
