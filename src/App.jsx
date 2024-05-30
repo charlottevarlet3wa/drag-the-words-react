@@ -1,5 +1,5 @@
 // import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { HashRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Game from './component/Game';
 
@@ -7,9 +7,9 @@ function App() {
 
   return (<>
       <Router>
-      <Switch>
+      <Routes>
         <Route path="/1" component={<Game/>} />
-      </Switch>
+      </Routes>
     </Router>
       {/* <BrowserRouter>
         <Routes>
