@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Recette des Mochi</title>
+</head>
+<*body*>
+    <*header*>
+        <*nav*>
+            <ul>
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#preparation">Préparation</a></li>
+            </ul>
+        </*nav*>
+        <h1>Recette des Mochi Japonais</h1>
+    </*header*>
+<*main*>
+    <*section* id="introduction">
+	<h2>Introduction</h2>
+        <*article*>
+            <header>
+                <h3>Introduction aux Mochi</h3>
+            </header>
+            <*figure*>
+                <img src="assets/images/mochi.jpg" *alt*="Mochi colorés">
+                <*figcaption*>Les Mochi traditionnels japonais</*figcaption*>
+            </*figure*>
+            <p>
+                Les <mark>mochi</mark> sont des gâteaux japonais traditionnels, souvent consommés lors du Nouvel An. Ils sont fabriqués à partir de riz gluant et peuvent être fourrés avec diverses garnitures, comme de la pâte de haricot rouge sucrée.
+            </p>
+            <footer>
+                Publié le <time datetime="2024-04-26">26 avril 2024</time>.
+            </footer>
+        </*article*>
+    </*section*>
+
+    <*section* id="preparation">
+        <h2>Étapes de préparation</h2>
+        <*article*>
+            <*header*>
+                <h3>Comment préparer les Mochi</h3>
+            </header>
+            <ol>
+                <li>
+                    Mélanger la poudre de riz gluant avec l'eau et le sucre dans un bol résistant à la chaleur. Couvrir de film plastique et cuire au micro-ondes pendant 2 minutes. Remuer et répéter jusqu'à ce que la pâte soit élastique.
+                </li>
+                <li>
+                    Saupoudrer une surface de travail avec de la fécule de maïs. Verser la pâte et laisser refroidir légèrement. Former des petites boules, puis les aplatir et mettre une cuillerée de pâte de haricot rouge au centre.
+                </li>
+                <li>
+                    Refermer les mochi en pinçant les bords ensemble et les rouler légèrement dans la fécule de maïs.
+                </li>
+            </ol>
+            <*footer*>
+                Pour plus de recettes, visitez notre <a href="#">section recettes</a>.
+            </*footer*>
+        </*article*>
+    </*section*>
+</main>
+
+<*aside*>
+    <h2>Conseils supplémentaires</h2>
+    <p>Utilisez toujours de la fécule de maïs pour manipuler la pâte, car elle est très collante.</p>
+</*aside*>
+
+<*footer*>
+    © Tous droits réservés à <a href="https://example.com/">Cuisine Mondiale</a>.
+</*footer*>
+</*body*>
+</*html*>
